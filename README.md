@@ -29,4 +29,4 @@ A simple and clean website to display my personal photo collection.
                                                                                                                                                                         <img src="photo2.jpg">
 
                                                                                                                                                                         </body>
-                                                                                                                                                                        </html>
+                                                                                                                                                                        </html>j
